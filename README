@@ -1,0 +1,17 @@
+ACTIVATION LAB — Hóa học 10
+Website học tập tương tác về Bài 3: Năng lượng hoạt hóa của phản ứng hóa học.
+Tính năng
+- Giao diện neon/cyberpunk, responsive, chế độ sáng/tối và hiệu ứng chuyển động.
+- Nội dung về năng lượng hoạt hóa, va chạm hiệu quả, phương trình Arrhenius và chất xúc tác.
+- Bộ mô phỏng hệ số Arrhenius tương đối với thanh điều chỉnh nhiệt độ, Ea và mức giảm Ea.
+- Quiz 5 câu có chấm điểm và phản hồi.
+- Dashboard đồng hồ hệ thống, dữ liệu demo, ảnh minh họa.
+- Mini-game bắt hạt có lưu điểm cao bằng LocalStorage.
+- Trợ lý học tập theo chủ đề chạy cục bộ trong trình duyệt; không gọi API AI bên ngoài.
+Chạy website
+Mở index.html bằng trình duyệt hoặc bật GitHub Pages:
+1. Vào Settings → Pages.
+2. Ở Build and deployment, chọn Deploy from a branch.
+3. Chọn branch main, folder / (root), rồi Save.
+4. Chờ GitHub Pages xuất bản trang.
+Các font, icon và ảnh minh họa cần kết nối internet. Trợ lý chat và thời tiết là bản demo, không phải dịch vụ AI/thời tiết trực tiếp.
